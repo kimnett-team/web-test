@@ -1,0 +1,8 @@
+# File
+.DS_Store
+
+# Dir
+/tmp
+
+# Wild Card
+*.log
